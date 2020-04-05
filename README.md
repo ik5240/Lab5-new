@@ -1,3 +1,8 @@
+/** Caution
+* This project is originally created by Žiga Sajovic, a lincensed programmer. This is NOT my work.
+* I created this repository for my assignment use only.
+**/
+
 # javaCalculus
 Symbolic multivariate differentiation and optimization.
 
